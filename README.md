@@ -1,4 +1,5 @@
 dymo_label_prep
 ===============
 
-create label-z{level} CSV input data for dymo label-positioning tool
+
+From OSM (open-street-map) pbf "osm2pgsql" loaded data, create label-z{level} CSV input data for https://github.com/migurski/Dymo label-positioning tool
